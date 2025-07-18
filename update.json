@@ -1,5 +1,8 @@
 {
   "version": "v0.9.0",
   "url": "https://github.com/PL-Rix/PGManagerUpdater/releases/download/v0.9.1/PGManagerSetup_v0.9.1.exe",
-  "changelog": "• 디스코드 설치파일 업데이트\n• 마인크래프트 설치파일 업데이트\n• 원격지원 요청 기능 개선\n• UI 최적화"
+  "changelog": "• 디스코드 설치파일 업데이트\n• 마인크래프트 설치파일 업데이트\n• 원격지원 요청 기능 개선\n• UI 최적화",
+  "notice_images": [
+    "https://media.discordapp.net/attachments/1382311341548769280/1394186647465234493/GD_Annoucement_1_1.png?ex=687b2aff&is=6879d97f&hm=37c2af196b201cf888891983c9ae78fc630b94dd2e9f953e20cb96564ce13511&=&format=webp&quality=lossless&width=614&height=768"
+  ]
 }
