@@ -1,6 +1,6 @@
 {
-  "version": "v0.9.3",
-  "url": "https://github.com/PL-Rix/PGManagerUpdater/releases/download/v0.9.3/PGManagerSetup_v0.9.3.exe",
+  "version": "v0.9.2",
+  "url": "https://github.com/PL-Rix/PGManagerUpdater/releases/download/v0.9.2/PGManagerSetup_v0.9.2.exe",
   "changelog": "• PG Manager 각종 버그 개선\n• Windows 7 버전 버그 개선",
   "notice_images": [
     "https://raw.githubusercontent.com/PL-Rix/PGManagerUpdater/main/공지3.png",
