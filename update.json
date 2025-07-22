@@ -1,7 +1,7 @@
 {
-  "version": "v0.9.1",
-  "url": "https://github.com/PL-Rix/PGManagerUpdater/releases/download/v0.9.1/PGManagerSetup_v0.9.1.exe",
-  "changelog": "• 디스코드 설치파일 업데이트\n• 마인크래프트 설치파일 업데이트\n• 원격지원 요청 기능 개선\n• UI 최적화\n• Windows 7 운영체제 지원",
+  "version": "v0.9.2",
+  "url": "https://github.com/PL-Rix/PGManagerUpdater/releases/download/v0.9.2/PGManagerSetup_v0.9.2.exe",
+  "changelog": "• 디스코드 설치파일 업데이트\n• 마인크래프트 설치파일 업데이트\n• 원격지원 요청 기능 개선\n• UI 최적화\n• Windows 7 운영체제 지원\n• 테스트\n• 테스트22",
   "notice_images": [
     "https://raw.githubusercontent.com/PL-Rix/PGManagerUpdater/main/공지3.png",
     "https://raw.githubusercontent.com/PL-Rix/PGManagerUpdater/main/공지1.png",
