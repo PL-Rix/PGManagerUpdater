@@ -1,7 +1,7 @@
 {
   "version": "v0.9.7",
   "url": "https://github.com/PL-Rix/PGManagerUpdater/releases/download/v0.9.7/PGManagerSetup_v0.9.7.exe",
-  "changelog": "• 스피커/마이크 동기화 개선\n• UI 버튼 애니메이션 개선",
+  "changelog": "• 스피커/마이크 음소거 기능 제거\n• 버튼 디자인 일부 수정\n• 공지사항 이미지 비율 수정\n• 원격 지원요청 기능 개선",
   "notice_images": [
     "https://raw.githubusercontent.com/PL-Rix/PGManagerUpdater/main/공지3.png",
     "https://raw.githubusercontent.com/PL-Rix/PGManagerUpdater/main/공지1.png",
