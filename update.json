@@ -1,7 +1,6 @@
 {
-  "version": "v0.9.8",
-  "url": "https://github.com/PL-Rix/PGManagerUpdater/releases/download/v0.9.8/PGManagerSetup_v0.9.8.exe",
-  "changelog": "• 마이크 볼륨 자동조절 Off 기능 추가",
+  "version": "v0.9.9",
+  "url": "https://github.com/PL-Rix/PGManagerUpdater/releases/download/v0.9.9/PGManagerSetup_v0.9.9.exe",
   "notice_images": [
     "https://raw.githubusercontent.com/PL-Rix/PGManagerUpdater/main/공지3.png",
     "https://raw.githubusercontent.com/PL-Rix/PGManagerUpdater/main/공지1.png",
